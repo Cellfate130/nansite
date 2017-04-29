@@ -70,10 +70,13 @@ menu:
     - name: "DNA Damage in Plants"
       url: "/cool/dna_damage/"
       weight: 2
+    - name: "Generation alternation"
+      url: "/cool/generation/"
+      weight: 3
     - name: "Github repo"
       pre: "github"
       url: "https://github.com/Cellfate130/"
-      weight: 3
+      weight: 4
 
 params:
   description: "Description of your website."
