@@ -11,6 +11,7 @@ build_one = function(io)  {
     unlink(io[2])
     stop('Failed to compile ', io[1], ' to ', io[2])
   }
+
 }
 
 # build Rmd files under the content directory
